@@ -22,7 +22,7 @@ And there are some options.
 *   url : (mandatory) URL to link
 *   bgcolor : (option, default: #fff) background-color of the link tile.
 *   nocache : (option, default: false) set to true once if the linked page is changed.
-*   description : (option, default: fetch from OGP) set any text here if you want to override OGP's description.
+*   desc : (option, default: fetch from OGP) set any text here if you want to override OGP's description.
 
 OGP data from linked site is cached for a week. (You can change my PHP code)
 
