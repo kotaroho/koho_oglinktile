@@ -1,0 +1,56 @@
+.khlt-box {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	margin: 10px 0;
+	max-width: 100%;
+	padding: 10px;
+}
+.khlt-box:after {
+	content: "";
+	display: block;
+	clear: both;
+}
+.khlt-thumbnail {
+	float: left;
+	margin-right: 10px;
+}
+.khlt-thumbnail img {
+	max-width: 100px;
+	max-height: 100px;
+}
+.khlt-content {
+	max-width: 100%;
+}
+.khlt-title {
+	color: #111;
+	font-size: 120%;
+	font-weight: bold;
+}
+.khlt-title:hover {
+	text-decoration: underline;
+}
+.khlt-description {
+	color: #666;
+	font-size: 70%;
+}
+.khlt-footer {
+	max-width: 100%;
+	color: #666;
+	font-size: 60%;
+	margin-top: 5px;
+}
+.khlt-domain {
+	color: #666;
+	text-decoration: none;
+}
+.khlt-domain:hover {
+	color: #666;
+	text-decoration: underline;
+}
+.khlt-favicon {
+	margin: 0;
+	padding: 0;
+	border: none;
+	display: inline;
+	vertical-align: middle;
+}
