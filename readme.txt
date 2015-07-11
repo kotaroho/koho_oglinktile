@@ -36,7 +36,7 @@ This section describes how to install the plugin and get it working.
 
 == Screenshots ==
 
-1. `/assets/screenshot-1.png`
+1. screenshot-1.png
 
 == Changelog ==
 
